@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/project-patina/patina/main/public/icon.svg" width="72" alt="Patina" />
+
 # Patina news
 
 Messages shown on the Patina launcher's home screen. The launcher reads `updates/index.json` from this repository; no token or account is involved.
