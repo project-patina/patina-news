@@ -1,5 +1,20 @@
 [
   {
+    "id": "patina-client",
+    "date": "2026-11-05",
+    "image": "images/patina-client.png",
+    "pl": {
+      "title": "Patina Client: 16 modów",
+      "summary": "Nowe mody w kliencie, a prace trwają dalej.",
+      "markdown": "patina-client.pl.md"
+    },
+    "en": {
+      "title": "Patina Client: 16 mods",
+      "summary": "New mods in the client, and more work to come.",
+      "markdown": "patina-client.en.md"
+    }
+  },
+  {
     "id": "first-version",
     "date": "2026-11-01",
     "image": "images/first-version.png",
